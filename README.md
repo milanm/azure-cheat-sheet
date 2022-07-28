@@ -1,7 +1,8 @@
 # The Azure Developer's Cheat Sheet
+
 Every product, feature and service in the Azure family by [Dr. Milan Milanović](https://milan.milanovic.org).
 
-Here are the downloadable versions: 
+Here are the downloadable versions:
 
 White background:
 [High-resolution PNG](LightSheet/Azure_developers_sheet_light-high_rez.png)
@@ -28,11 +29,12 @@ Text descriptions with links are below
 If you have any suggestions or missing products, create a pull request on this README.md file or [contact me](https://milan.milanovic.org).
 
 ----------------------------
+
 # All Products 
 
 ## [**Compute**](https://azure.microsoft.com/en-gb/products/category/compute/)
 
-### Access cloud compute capacity and scale on demand – and only pay for the resources you use.
+### Access cloud compute capacity and scale on demand – and only pay for the resources you use
 
 * [**App Service**](https://azure.microsoft.com/en-gb/services/app-service/): Quickly create powerful cloud apps for web and mobile.
 * [**Azure Quantum**](https://azure.microsoft.com/en-gb/services/quantum/): Jump in and explore a diverse selection of today's quantum hardware, software, and solutions.
@@ -55,9 +57,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure functions**](https://azure.microsoft.com/en-gb/services/functions/): Execute event-driven serverless code functions with an end-to-end development experience.
 * [**Service Fabric**](https://azure.microsoft.com/en-gb/services/service-fabric/): Develop microservices and orchestrate containers on Windows or Linux.
 
-## [**AI + Machine Learning**](https://azure.microsoft.com/en-gb/overview/ai-platform/) 
+## [**AI + Machine Learning**](https://azure.microsoft.com/en-gb/overview/ai-platform/)
 
-### Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario.
+### Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario
 
 * [**Anomaly Detector**](https://azure.microsoft.com/en-gb/services/cognitive-services/anomaly-detector/): Easily add anomaly detection capabilities to your apps.
 * [**Azure Cognitive Search**](https://azure.microsoft.com/en-gb/services/search/): Enterprise scale search for app development.
@@ -94,7 +96,7 @@ If you have any suggestions or missing products, create a pull request on this R
 
 ## [**Analytics**](https://azure.microsoft.com/en-gb/products/category/analytics/)
 
-### Gather, store, process, analyse and visualise data of any variety, volume or velocity.
+### Gather, store, process, analyse and visualise data of any variety, volume or velocity
 
 * [**Azure Analysis Services**](https://azure.microsoft.com/en-gb/services/analysis-services/): Enterprise-grade analytics engine as a service.
 * [**Azure Data Factory**](https://azure.microsoft.com/en-gb/services/data-factory/): Hybrid data integration at enterprise scale, made easy.
@@ -115,10 +117,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Microsoft Purview**](https://azure.microsoft.com/en-gb/services/purview/): Govern, protect, and manage your data estate.
 * [**Azure Chaos Studio <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/chaos-studio/): Improve application resilience by introducing faults and simulating outages.
 
+## [**Containers**](https://azure.microsoft.com/en-gb/product-categories/containers/)
 
-## [**Containers**](https://azure.microsoft.com/en-gb/product-categories/containers/) 
-
-### Develop and manage your containerised apps faster with integrated tools.
+### Develop and manage your containerised apps faster with integrated tools
 
 * [**App Configuration**](https://azure.microsoft.com/en-gb/services/app-configuration/): Fast, scalable parameter storage for app configuration.
 * [**Azure Red Hat OpenShift**](https://azure.microsoft.com/en-gb/services/openshift/): Fully managed OpenShift service, jointly operated with Red Hat.
@@ -130,10 +131,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Web App for Containers**](https://azure.microsoft.com/en-gb/services/app-service/containers/): Easily deploy and run containerised web apps on Windows and Linux.
 * [**Service Fabric**](https://azure.microsoft.com/en-gb/services/service-fabric/): Develop microservices and orchestrate containers on Windows or Linux.
 
+## [**Databases**](https://azure.microsoft.com/en-gb/product-categories/databases/)
 
-## [**Databases**](https://azure.microsoft.com/en-gb/product-categories/databases/) 
-
-### Support rapid growth and innovate faster with secure, enterprise-grade and fully managed database services.
+### Support rapid growth and innovate faster with secure, enterprise-grade and fully managed database services
 
 * [**Azure Cache for Redis**](https://azure.microsoft.com/en-gb/services/cache/): Accelerate apps with high-throughput, low-latency data caching.
 * [**Azure Data Factory**](https://azure.microsoft.com/en-gb/services/data-factory/): Hybrid data integration at enterprise scale, made easy.
@@ -142,7 +142,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Managed, intelligent SQL in the cloud.
 * [**Azure SQL Managed Instance**](https://azure.microsoft.com/en-gb/products/azure-sql/managed-instance/): Managed, always up-to-date SQL instance in the cloud.
 * [**Table Storage**](https://azure.microsoft.com/en-gb/services/storage/tables/): NoSQL key-value store using semi-structured datasets.
-* [**Azure Confidential Ledger**](https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/): https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/.
+* [**Azure Confidential Ledger**](https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/): Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.
 * [**Azure Cosmos DB**](https://azure.microsoft.com/en-gb/services/cosmos-db/): Fast NoSQL database with open APIs for any scale.
 * [**Azure Database for MariaDB**](https://azure.microsoft.com/en-gb/services/mariadb/): Managed MariaDB database service for app developers.
 * [**Azure Database for PostgreSQL**](https://azure.microsoft.com/en-gb/services/postgresql/): Fully managed, intelligent, and scalable PostgreSQL.
@@ -151,9 +151,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**SQL Server on Azure Virtual Machines**](https://azure.microsoft.com/en-gb/services/virtual-machines/sql-server/): Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).
 * [**Azure Managed Instance for Apache Cassandra**](https://azure.microsoft.com/en-gb/services/managed-instance-apache-cassandra/): Cloud Cassandra with flexibility, control and scale.
 
-## [**Developer Tools**](https://azure.microsoft.com/en-gb/product-categories/developer-tools/) 
+## [**Developer Tools**](https://azure.microsoft.com/en-gb/product-categories/developer-tools/)
 
-### Build, manage and continuously deliver cloud applications – using any platform or language.
+### Build, manage and continuously deliver cloud applications – using any platform or language
 
 * [**App Configuration**](https://azure.microsoft.com/en-gb/services/app-configuration/): Fast, scalable parameter storage for app configuration.
 * [**Azure DevTest Labs**](https://azure.microsoft.com/en-gb/services/devtest-lab/): Quickly create environments using reusable templates and artifacts.
@@ -164,9 +164,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Visual Studio**](https://azure.microsoft.com/en-gb/products/visual-studio/): Powerful and flexible environment to develop apps in the cloud.
 * [**Azure Load Testing <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/load-testing/): Optimise app performance with high-scale load testing.
 
-## [**DevOps**](https://azure.microsoft.com/en-gb/products/category/devops/) 
+## [**DevOps**](https://azure.microsoft.com/en-gb/products/category/devops/)
 
-### Deliver innovation faster with simple, reliable tools for continuous delivery.
+### Deliver innovation faster with simple, reliable tools for continuous delivery
 
 * [**Azure Artifacts**](https://azure.microsoft.com/en-gb/services/devops/artifacts/): Create, host, and share packages with your team.
 * [**Azure Boards**](https://azure.microsoft.com/en-gb/services/devops/boards/): Plan, track, and discuss work across your teams.
@@ -180,9 +180,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Load Testing <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/load-testing/): Optimise app performance with high-scale load testing.
 * [**Azure Managed Grafana <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/managed-grafana/): Deploy Grafana dashboards as a fully managed Azure service.
 
-## [**Hybrid + multicloud**](https://azure.microsoft.com/en-gb/solutions/hybrid-cloud-app/) 
+## [**Hybrid + multicloud**](https://azure.microsoft.com/en-gb/solutions/hybrid-cloud-app/)
 
-### Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads.
+### Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads
 
 * [**Azure Active Directory (Azure AD)**](https://azure.microsoft.com/en-gb/services/active-directory/): Synchronise on-premises directories and enable single sign-on.
 * [**Azure Database for PostgreSQL**](https://azure.microsoft.com/en-gb/services/postgresql/): Fully managed, intelligent, and scalable PostgreSQL.
@@ -200,19 +200,18 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Stack HCI**](https://azure.microsoft.com/en-gb/products/azure-stack/hci/): Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure.
 * [**Azure Stack Edge**](https://azure.microsoft.com/en-gb/products/azure-stack/edge/): An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.
 
-## [**Identity**](https://azure.microsoft.com/en-gb/products/category/identity/) 
+## [**Identity**](https://azure.microsoft.com/en-gb/products/category/identity/)
 
 ### Manage user identities and access to protect against advanced threats across devices, data, apps and infrastructure
 
-* [*Azure Active Directory (Azure AD)**](https://azure.microsoft.com/en-gb/services/active-directory/): Synchronise on-premises directories and enable single sign-on.
+* [**Azure Active Directory (Azure AD)**](https://azure.microsoft.com/en-gb/services/active-directory/): Synchronise on-premises directories and enable single sign-on.
 * [**Azure Information Protection**](https://azure.microsoft.com/en-gb/services/information-protection/): Better protect your sensitive information—anytime, anywhere.
 * [**Azure Active Directory Domain Services**](https://azure.microsoft.com/en-gb/services/active-directory-ds/): Join Azure virtual machines to a domain without domain controllers .
 * [**Azure Active Directory External Identities**](https://azure.microsoft.com/en-gb/services/active-directory/external-identities/): Consumer identity and access management in the cloud.
 
+## [**Integration**](https://azure.microsoft.com/en-gb/products/category/integration/)
 
-## [**Integration**](https://azure.microsoft.com/en-gb/products/category/integration/) 
-
-### Manage user identities and access to protect against advanced threats across devices, data, apps and infrastructure
+### Seamlessly integrate on-premises and cloud-based applications, data and processes across your enterprise
 
 * [**API Management**](https://azure.microsoft.com/en-gb/services/api-management/): Publish APIs to developers, partners, and employees securely and at scale.
 * [**Event Grid**](https://azure.microsoft.com/en-gb/services/event-grid/): Reliable event delivery at massive scale.
@@ -221,13 +220,13 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Logic Apps**](https://azure.microsoft.com/en-gb/services/logic-apps/): Automate the access and use of data across clouds.
 * [**Azure web PubSub**](https://azure.microsoft.com/en-gb/services/web-pubsub/): Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern.
 
-## [**Internet of Things**](https://azure.microsoft.com/en-gb/overview/iot/) 
+## [**Internet of Things**](https://azure.microsoft.com/en-gb/overview/iot/)
 
 ### Bring IoT to any device and any platform, without changing your infrastructure
 
 * [**API Management**](https://azure.microsoft.com/en-gb/services/api-management/): Publish APIs to developers, partners, and employees securely and at scale.
 * [**Azure Digital Twins**](https://azure.microsoft.com/en-gb/services/digital-twins/): Use IoT spatial intelligence to create models of physical environments.
-* [*Azure IoT Edge**](https://azure.microsoft.com/en-gb/services/iot-edge/): Extend cloud intelligence and analytics to edge devices.
+* [**Azure IoT Edge**](https://azure.microsoft.com/en-gb/services/iot-edge/): Extend cloud intelligence and analytics to edge devices.
 * [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/services/machine-learning/): Use an enterprise-grade service for the end-to-end machine learning lifecycle.
 * [**Azure RTOS**](https://azure.microsoft.com/en-gb/services/rtos/): Making embedded IoT development and connectivity easy.
 * [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): nsume Services privately on Azure Platform.
@@ -235,8 +234,8 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Kinect DK**](https://azure.microsoft.com/en-gb/services/kinect-dk/): Build computer vision and speech models using a developer kit with advanced AI sensors.
 * [**Notification Hubs**](https://azure.microsoft.com/en-gb/services/notification-hubs/): Send push notifications to any platform from any back-end.
 * [**Azure Defender for IoT**](https://azure.microsoft.com/en-gb/services/azure-defender-for-iot/): Unified threat protection for all your IoT/OT devices.
-* [*Windows for IoT**](https://azure.microsoft.com/en-gb/services/windows-iot/): Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security..
-* [*Azure Cosmos DB**](https://azure.microsoft.com/en-gb/services/cosmos-db/): Fast NoSQL database with open APIs for any scale.
+* [**Windows for IoT**](https://azure.microsoft.com/en-gb/services/windows-iot/): Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security..
+* [**Azure Cosmos DB**](https://azure.microsoft.com/en-gb/services/cosmos-db/): Fast NoSQL database with open APIs for any scale.
 * [**Azure IoT Central**](https://azure.microsoft.com/en-gb/services/iot-central/): Go from proof of concept to proof of value.
 * [**Azure IoT Hub**](https://azure.microsoft.com/en-gb/services/iot-hub/): Connect, monitor and manage billions of IoT assets.
 * [**Azure Maps**](https://azure.microsoft.com/en-gb/services/azure-maps/): Add location data and mapping visuals to business applications and solutions.
@@ -248,7 +247,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Percept <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/azure-percept/): Accelerate edge intelligence from silicon to service.
 * [**Azure functions**](https://azure.microsoft.com/en-gb/services/functions/): Execute event-driven serverless code functions with an end-to-end development experience.
 
-## [**Management and Governance**](https://azure.microsoft.com/en-gb/products/category/management/) 
+## [**Management and Governance**](https://azure.microsoft.com/en-gb/products/category/management/)
 
 ### Simplify, automate and optimise the management and compliance of your cloud resources
 
@@ -273,7 +272,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Resource Manager templates**](https://azure.microsoft.com/en-gb/services/arm-templates/): Deliver infrastructure as code for all your Azure resources using Resource Manager.
 * [**Azure Site Recovery**](https://azure.microsoft.com/en-gb/services/site-recovery/): Keep your business running with built-in disaster recovery service.
 * [**Microsoft Cost Management**](https://azure.microsoft.com/en-gb/services/cost-management/): Monitor, allocate and optimise cloud costs with transparency, accuracy and efficiency using Microsoft Cost Management.
-* [*Network Watcher**](https://azure.microsoft.com/en-gb/services/network-watcher/): Network performance monitoring and diagnostics solution.
+* [**Network Watcher**](https://azure.microsoft.com/en-gb/services/network-watcher/): Network performance monitoring and diagnostics solution.
 * [**Azure Automanage <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/azure-automanage/): Simplify and optimise IT management with automated operations.
 * [**Microsoft Purview**](https://azure.microsoft.com/en-gb/services/purview/): Govern, protect, and manage your data estate.
 * [**Azure Managed Grafana <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/managed-grafana/): Deploy Grafana dashboards as a fully managed Azure service.
@@ -287,10 +286,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Live and On-Demand Streaming**](https://azure.microsoft.com/en-gb/services/media-services/live-on-demand/): Deliver content to virtually all devices with ability to scale.
 * [**Content Delivery Network**](https://azure.microsoft.com/en-gb/services/cdn/): Fast, reliable content delivery network with global reach.
 * [**Encoding**](https://azure.microsoft.com/en-gb/services/media-services/encoding/): Studio grade encoding at cloud scale.
-* [**Media Services**](https://azure.microsoft.com/en-gb/services/media-services/):.
-* [****](): Encode, store and stream video and audio at scale.
+* [**Media Services**](https://azure.microsoft.com/en-gb/services/media-services/): Encode, store and stream video and audio at scale.
 
-## [**Migration**](https://azure.microsoft.com/en-gb/migration/) 
+## [**Migration**](https://azure.microsoft.com/en-gb/migration/)
 
 ### Simplify and accelerate your migration to the cloud with guidance, tools and resources
 
@@ -310,12 +308,12 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Kinect DK**](https://azure.microsoft.com/en-gb/services/kinect-dk/): Build computer vision and speech models using a developer kit with advanced AI sensors.
 * [**Spatial Anchors**](https://azure.microsoft.com/en-gb/services/spatial-anchors/): Create multi-user, spatially aware mixed reality experiences.
 
-## [**Mobile**](https://azure.microsoft.com/en-gb/products/category/mobile/) 
+## [**Mobile**](https://azure.microsoft.com/en-gb/products/category/mobile/)
 
 ### Build and deploy cross-platform and native apps for any mobile device
 
 * [**API Management**](https://azure.microsoft.com/en-gb/services/api-management/): Publish APIs to developers, partners, and employees securely and at scale.
-* [**App Service**](https://azure.microsoft.com/en-gb/services/app-service/): https://azure.microsoft.com/en-gb/services/app-service/.
+* [**App Service**](https://azure.microsoft.com/en-gb/services/app-service/): Quickly create powerful cloud apps for web and mobile.
 * [**Azure Maps**](https://azure.microsoft.com/en-gb/services/azure-maps/): Add location data and mapping visuals to business applications and solutions.
 * [**Notification Hubs**](https://azure.microsoft.com/en-gb/services/notification-hubs/): Send push notifications to any platform from any back-end.
 * [**Visual Studio App Centre**](https://azure.microsoft.com/en-gb/services/app-center/): Build, test, release, and monitor your mobile and desktop apps.
@@ -326,9 +324,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Spatial Anchors**](https://azure.microsoft.com/en-gb/services/spatial-anchors/): Create multi-user, spatially aware mixed reality experiences.
 * [**Xamarin**](https://azure.microsoft.com/en-gb/features/xamarin/): Create cloud-powered mobile apps faster.
   
-## [**Networking**](https://azure.microsoft.com/en-gb/products/category/networking/) 
+## [**Networking**](https://azure.microsoft.com/en-gb/products/category/networking/)
 
-### Connect cloud and on-premises infrastructure and services, to provide your customers and users with the best possible experience.
+### Connect cloud and on-premises infrastructure and services, to provide your customers and users with the best possible experience
 
 * [**Application Gateway**](https://azure.microsoft.com/en-gb/services/application-gateway/): Build secure, scalable, highly available web front ends in Azure.
 * [**Azure DDoS Protection**](https://azure.microsoft.com/en-gb/services/ddos-protection/): Protect your Azure resources from distributed denial-of-service (DDoS) attacks.
@@ -354,7 +352,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Route Server**](https://azure.microsoft.com/en-gb/services/route-server/): Enable network appliances to exchange routes dynamically with virtual networks in Azure.
 * [**Azure Virtual Network Manager <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/virtual-network-manager/): Centrally manage virtual networks in Azure from a single pane of glass.
 
-## [**Security**](https://azure.microsoft.com/en-gb/products/category/security/) 
+## [**Security**](https://azure.microsoft.com/en-gb/products/category/security/)
 
 ### Protect your enterprise from advanced threats across hybrid cloud workloads
 
@@ -379,9 +377,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Defender for IoT**](https://azure.microsoft.com/en-gb/services/azure-defender-for-iot/): Unified threat protection for all your IoT/OT devices.
 * [**Azure Confidential Ledger**](https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/): Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.
 
-## [**Storage**](https://azure.microsoft.com/en-gb/products/category/storage/) 
+## [**Storage**](https://azure.microsoft.com/en-gb/products/category/storage/)
 
-### Get secure, massively scalable cloud storage for your data, apps and workloads.
+### Get secure, massively scalable cloud storage for your data, apps and workloads
 
 * [**Archive Storage**](https://azure.microsoft.com/en-gb/services/storage/archive/): Industry-leading price point for storing rarely accessed data.
 * [**Azure Backup**](https://azure.microsoft.com/en-gb/services/backup/): Simplify data protection and protect against ransomware.
@@ -401,9 +399,9 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Storage Accounts**](https://azure.microsoft.com/en-gb/services/storage/): Durable, highly available, and massively scalable cloud storage.
 * [**StorSimple**](https://azure.microsoft.com/en-gb/services/storsimple/): Lower costs with an enterprise hybrid cloud storage solution.
 
-## [**Web**](https://azure.microsoft.com/en-gb/products/category/web/) 
+## [**Web**](https://azure.microsoft.com/en-gb/products/category/web/)
 
-### Build, deploy and scale powerful web applications quickly and efficiently.
+### Build, deploy and scale powerful web applications quickly and efficiently
 
 * [**API Management**](https://azure.microsoft.com/en-gb/services/api-management/): Publish APIs to developers, partners, and employees securely and at scale.
 * [**App Service**](https://azure.microsoft.com/en-gb/services/app-service/): Quickly create powerful cloud apps for web and mobile.
