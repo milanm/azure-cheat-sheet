@@ -92,7 +92,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Form Recogniser**](https://azure.microsoft.com/en-gb/services/form-recognizer/): The AI-powered document extraction service that understands your forms.
 * [**Kinect DK**](https://azure.microsoft.com/en-gb/services/kinect-dk/): Build computer vision and speech models using a developer kit with advanced AI sensors.
 * [**Microsoft Genomics**](https://azure.microsoft.com/en-gb/services/genomics/): Power genome sequencing & research insights.
-* [**Project Bonsai PREVIEW**](https://azure.microsoft.com/en-gb/services/project-bonsai/): Create intelligent industrial control systems using simulations.
+* [**Project Bonsai <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/project-bonsai/): Create intelligent industrial control systems using simulations.
 * [**Speaker Recognition**](https://azure.microsoft.com/en-gb/services/cognitive-services/speaker-recognition/): A Speech service feature that verifies and identifies speakers.
 * [**Speech translation**](https://azure.microsoft.com/en-gb/services/cognitive-services/speech-translation/): Easily integrate real-time speech translation to your app.
 * [**Text to Speech**](https://azure.microsoft.com/en-gb/services/cognitive-services/text-to-speech/): A Speech service feature that converts text to lifelike speech.
