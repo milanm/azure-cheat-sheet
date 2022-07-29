@@ -12,6 +12,8 @@ White background:
 [Low-res PNG](LightSheet/Azure_developers_sheet_light-low_rez.png)
 |
 [PDF](LightSheet/Azure_Developers_sheet-light.pdf)
+|
+[SVG](LightSheet/Azure_Developers_sheet-light.svg)
 
 Dark background:
 [High-resolution PNG](DarkSheet/Azure_developers_sheet_dark-high_rez.png)
@@ -21,8 +23,12 @@ Dark background:
 [Low-res PNG](DarkSheet/Azure_developers_sheet_dark-low_rez.png)
 |
 [PDF](DarkSheet/Azure_Developers_sheet-dark.pdf)
+|
+[SVG](DarkSheet/Azure_Developers_sheet-dark.svg)
 
 <a target="_blank" href="DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="DarkSheet/Azure_developers_sheet_dark-low_rez.png"></a>
+
+Fetched from: https://azure.microsoft.com/en-gb/products/ (August 2022.)
 
 Text descriptions with links are below
 
