@@ -145,15 +145,15 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Data Factory**](https://azure.microsoft.com/en-gb/services/data-factory/): Hybrid data integration at enterprise scale, made easy.
 * [**Azure Database for MySQL**](https://azure.microsoft.com/en-gb/services/mysql/): Fully managed, scalable MySQL database.
 * [**Azure Database Migration Service**](https://azure.microsoft.com/en-gb/services/database-migration/): Accelerate your data migration to Azure.
-* [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Managed, intelligent SQL in the cloud.
-* [**Azure SQL Managed Instance**](https://azure.microsoft.com/en-gb/products/azure-sql/managed-instance/): Managed, always up-to-date SQL instance in the cloud.
+* [**Azure SQL**](https://azure.microsoft.com/en-gb/products/azure-sql/): The family of SQL cloud databases providing flexible options for application migration, modernisation and development.
+  * [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Small-footprint, edge-optimised SQL database engine with built-in AI.
+  * [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Managed, intelligent SQL database in the cloud.
+  * [**Azure SQL Managed Instance**](https://azure.microsoft.com/en-gb/products/azure-sql/managed-instance/): Managed, always up-to-date SQL instance in the cloud.
 * [**Table Storage**](https://azure.microsoft.com/en-gb/services/storage/tables/): NoSQL key-value store using semi-structured datasets.
 * [**Azure Confidential Ledger**](https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/): Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.
 * [**Azure Cosmos DB**](https://azure.microsoft.com/en-gb/services/cosmos-db/): Fast NoSQL database with open APIs for any scale.
 * [**Azure Database for MariaDB**](https://azure.microsoft.com/en-gb/services/mariadb/): Managed MariaDB database service for app developers.
 * [**Azure Database for PostgreSQL**](https://azure.microsoft.com/en-gb/services/postgresql/): Fully managed, intelligent, and scalable PostgreSQL.
-* [**Azure SQL**](https://azure.microsoft.com/en-gb/products/azure-sql/): Modern SQL family for migration and app modernisation.
-* [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Consume Services privately on Azure Platform.
 * [**SQL Server on Azure Virtual Machines**](https://azure.microsoft.com/en-gb/services/virtual-machines/sql-server/): Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).
 * [**Azure Managed Instance for Apache Cassandra**](https://azure.microsoft.com/en-gb/services/managed-instance-apache-cassandra/): Cloud Cassandra with flexibility, control and scale.
 
@@ -201,7 +201,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Arc**](https://azure.microsoft.com/en-gb/services/azure-arc/): Secure, develop, and operate infrastructure, apps, and Azure services anywhere.
 * [**Azure DevOps**](https://azure.microsoft.com/en-gb/services/devops/): Services for teams to share code, track work and ship software.
 * [**Azure IoT Edge**](https://azure.microsoft.com/en-gb/services/iot-edge/): Extend cloud intelligence and analytics to edge devices.
-* [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Managed, intelligent SQL in the cloud.
+* [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Small-footprint, edge-optimised SQL database engine with built-in AI.
 * [**Azure Stack**](https://azure.microsoft.com/en-gb/overview/azure-stack/): Build and run innovative hybrid apps across cloud boundaries.
 * [**Azure Stack HCI**](https://azure.microsoft.com/en-gb/products/azure-stack/hci/): Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure.
 * [**Azure Stack Edge**](https://azure.microsoft.com/en-gb/products/azure-stack/edge/): An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.
@@ -235,7 +235,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure IoT Edge**](https://azure.microsoft.com/en-gb/services/iot-edge/): Extend cloud intelligence and analytics to edge devices.
 * [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/services/machine-learning/): Use an enterprise-grade service for the end-to-end machine learning lifecycle.
 * [**Azure RTOS**](https://azure.microsoft.com/en-gb/services/rtos/): Making embedded IoT development and connectivity easy.
-* [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): nsume Services privately on Azure Platform.
+* [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Small-footprint, edge-optimised SQL database engine with built-in AI.
 * [**Azure Time Series Insights**](https://azure.microsoft.com/en-gb/services/time-series-insights/): Visualise IoT data in real time.
 * [**Kinect DK**](https://azure.microsoft.com/en-gb/services/kinect-dk/): Build computer vision and speech models using a developer kit with advanced AI sensors.
 * [**Notification Hubs**](https://azure.microsoft.com/en-gb/services/notification-hubs/): Send push notifications to any platform from any back-end.
