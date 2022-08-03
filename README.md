@@ -4,29 +4,74 @@ Every product, feature and service in the Azure family by [Dr. Milan Milanović]
 
 Here are the downloadable versions:
 
-White background:
-[High-resolution PNG](LightSheet/Azure_developers_sheet_light-high_rez.png)
-|
-[Medium-res PNG](LightSheet/Azure_developers_sheet_light-mid_rez.png)
-|
-[Low-res PNG](LightSheet/Azure_developers_sheet_light-low_rez.png)
-|
-[PDF](LightSheet/Azure_Developers_sheet-light.pdf)
-|
-[SVG](LightSheet/Azure_Developers_sheet-light.svg)
+## One page version
 
-Dark background:
-[High-resolution PNG](DarkSheet/Azure_developers_sheet_dark-high_rez.png)
+**White background**:
+[High-resolution PNG](1_page_version/LightSheet/Azure_developers_sheet_light-high_rez.png)
 |
-[Medium-res PNG](DarkSheet/Azure_developers_sheet_dark-mid_rez.png)
+[Medium-res PNG](1_page_version/LightSheet/Azure_developers_sheet_light-mid_rez.png)
 |
-[Low-res PNG](DarkSheet/Azure_developers_sheet_dark-low_rez.png)
+[PDF](1_page_version/LightSheet/Azure_Developers_sheet-light.pdf)
 |
-[PDF](DarkSheet/Azure_Developers_sheet-dark.pdf)
-|
-[SVG](DarkSheet/Azure_Developers_sheet-dark.svg)
+[SVG](1_page_version/LightSheet/Azure_Developers_sheet-light.svg)
 
-<a target="_blank" href="DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="DarkSheet/Azure_developers_sheet_dark-low_rez.png"></a>
+**Dark background**:
+[High-resolution PNG](1_page_version/DarkSheet/Azure_developers_sheet_dark-high_rez.png)
+|
+[Medium-res PNG](1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png)
+|
+[PDF](1_page_version/DarkSheet/Azure_Developers_sheet-dark.pdf)
+|
+[SVG](1_page_version/DarkSheet/Azure_Developers_sheet-dark.svg)
+
+<a target="_blank" href="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"></a>
+
+## Two page version
+
+**White background**:
+
+High-resolution PNG: [Page 1.](2_page_version/LightSheet/High/Azure-document-light-1st-page-highrez.png) 
+|
+[Page 2.](2_page_version/LightSheet/High/Azure-document-light-2nd-page-highrez.png)
+
+Medium-res PNG: [Page 1.](2_page_version/LightSheet/Mid/Azure-document-light-1st-page-mid-rez.png)
+|
+[Page 2.](2_page_version/LightSheet/Mid/Azure-document-light-2nd-page-mid-rez.png)
+
+
+Low-res PNG: [Page 1.](2_page_version/LightSheet/Low/Azure-document-light-1st-page-low-rez.png)
+| 
+[Page 2.](2_page_version/LightSheet/Low/Azure-document-light-3nd-page-low-rez.png)
+
+[PDF](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.pdf)
+|
+[SVG](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.svg)
+
+**Dark background**:
+
+High-resolution PNG: [Page 1.](2_page_version/DarkSheet/High/Azure-document-dark-1st-page-highrez.png)
+|
+[Page 2.](2_page_version/DarkSheet/High/Azure-document-dark-2nd-page-highrez.png)
+
+Medium-res PNG: [Page 1.](2_page_version/DarkSheet/Mid/Azure-document-dark-1st-page-mid_rez.png)
+|
+[Page 2.](2_page_version/DarkSheet/Mid/Azure-document-dark-2nd-page-mid_rez.png)
+
+Low-res PNG: [Page 1.](2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png)
+|
+[Page 2.](2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png)
+
+[PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.pdf)
+|
+[SVG](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.svg)
+
+<p align="center">
+<a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png">
+  <img alt="Light" src="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png" width="45%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png"><img alt="Dark" src="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png" width="45%"></a>
+</p>
+
 
 Fetched from: https://azure.microsoft.com/en-gb/products/ (August 2022.)
 
