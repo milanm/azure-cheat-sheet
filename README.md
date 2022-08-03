@@ -194,14 +194,14 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure Database for PostgreSQL**](https://azure.microsoft.com/en-gb/services/postgresql/): Fully managed, intelligent, and scalable PostgreSQL.
 * [**Azure ExpressRoute**](https://azure.microsoft.com/en-gb/services/expressroute/): edicated private-network fibre connections to Azure.
 * [**Azure Sentinel**](https://azure.microsoft.com/en-gb/services/microsoft-sentinel/): Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise.
-* [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Consume Services privately on Azure Platform.
+* [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Small-footprint, edge-optimised SQL database engine with built-in AI.
 * [**Security Center**](https://azure.microsoft.com/en-gb/services/security-center/): Unify security management and enable advanced threat protection across hybrid cloud workloads.
 * [**Azure Stack Hub**](https://azure.microsoft.com/en-gb/products/azure-stack/hub/): Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware.
 * [**Azure Modular Datacentre**](https://azure.microsoft.com/en-gb/products/azure-modular-datacenter/): A complete, rugged datacentre solution.
 * [**Azure Arc**](https://azure.microsoft.com/en-gb/services/azure-arc/): Secure, develop, and operate infrastructure, apps, and Azure services anywhere.
 * [**Azure DevOps**](https://azure.microsoft.com/en-gb/services/devops/): Services for teams to share code, track work and ship software.
 * [**Azure IoT Edge**](https://azure.microsoft.com/en-gb/services/iot-edge/): Extend cloud intelligence and analytics to edge devices.
-* [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Small-footprint, edge-optimised SQL database engine with built-in AI.
+* [**Azure SQL Database**](https://azure.microsoft.com/en-gb/products/azure-sql/database/): Managed, intelligent SQL database in the cloud.
 * [**Azure Stack**](https://azure.microsoft.com/en-gb/overview/azure-stack/): Build and run innovative hybrid apps across cloud boundaries.
 * [**Azure Stack HCI**](https://azure.microsoft.com/en-gb/products/azure-stack/hci/): Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure.
 * [**Azure Stack Edge**](https://azure.microsoft.com/en-gb/products/azure-stack/edge/): An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.
