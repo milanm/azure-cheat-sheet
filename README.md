@@ -41,7 +41,7 @@ Medium-res PNG: [Page 1.](2_page_version/LightSheet/Mid/Azure-document-light-1st
 
 Low-res PNG: [Page 1.](2_page_version/LightSheet/Low/Azure-document-light-1st-page-low-rez.png)
 | 
-[Page 2.](2_page_version/LightSheet/Low/Azure-document-light-3nd-page-low-rez.png)
+[Page 2.](2_page_version/LightSheet/Low/Azure-document-light-2nd-page-low-rez.png)
 
 [PDF](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.pdf)
 |
