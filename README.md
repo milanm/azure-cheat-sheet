@@ -1,4 +1,4 @@
-# The Azure Developer's Cheat Sheet
+# The Microsoft Azure Developer's Cheat Sheet
 
 Every product, feature and service in the Azure family by [Dr. Milan Milanović](https://milan.milanovic.org).
 
