@@ -1,6 +1,10 @@
 # The Microsoft Azure Developer's Cheat Sheet
 
-Every product, feature and service in the Azure family by [Dr. Milan Milanović](https://milan.milanovic.org).
+Every product, feature and service in the Azure family (updated August 2022.).
+
+## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 Here are the downloadable versions:
 
@@ -482,3 +486,21 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Awesome Azure - A Curated List of Azure Resources**](https://github.com/kristofferandreasen/awesome-azure).
 * [**Awesome Azure Architecture**](https://github.com/lukemurraynz/awesome-azure-architecture).
 * [**Awesome Azure SQL resources**](https://github.com/yorek/awesome-azure-sql).
+
+## Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+## Contribution
+
+- Open a pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+
+## License
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+## Authors
+
+- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
