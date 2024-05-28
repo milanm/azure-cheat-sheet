@@ -10,6 +10,8 @@ Here are the downloadable versions:
 
 ## One page version
 
+<a target="_blank" href="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"></a>
+
 **White background**:
 [High-resolution PNG](1_page_version/LightSheet/Azure_developers_sheet_light-high_rez.png)
 |
@@ -28,9 +30,14 @@ Here are the downloadable versions:
 |
 [SVG](1_page_version/DarkSheet/Azure_Developers_sheet-dark.svg)
 
-<a target="_blank" href="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"></a>
-
 ## Two page version
+
+<p align="center">
+<a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png">
+  <img alt="Light" src="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png" width="45%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png"><img alt="Dark" src="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png" width="45%"></a>
+</p>
 
 **White background**:
 
@@ -68,13 +75,6 @@ Low-res PNG: [Page 1.](2_page_version/DarkSheet/Low/Azure-document-dark-1st-page
 [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.pdf)
 |
 [SVG](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.svg)
-
-<p align="center">
-<a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png">
-  <img alt="Light" src="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png" width="45%"></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png"><img alt="Dark" src="2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png" width="45%"></a>
-</p>
 
 ## Bonus: Azure Cloud Services Cheat Sheet
 
