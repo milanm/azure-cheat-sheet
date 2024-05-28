@@ -116,6 +116,8 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Azure VM Image Builder**](https://azure.microsoft.com/en-gb/services/image-builder/): Simplify your image building process with easy to use tool.
 * [**Azure functions**](https://azure.microsoft.com/en-gb/services/functions/): Execute event-driven serverless code functions with an end-to-end development experience.
 * [**Service Fabric**](https://azure.microsoft.com/en-gb/services/service-fabric/): Develop microservices and orchestrate containers on Windows or Linux.
+* [**Azure Modeling and Simulation Workbench**](https://azure.microsoft.com/en-gb/products/modeling-and-simulation-workbench): A collaborative on-demand, secure workspace for research and engineering projects.
+* [**Azure Compute Fleet**](https://go.microsoft.com/fwlink/?linkid=2270035&clcid=0x809): Easily provision and manage Azure compute capacity at scale.
 
 ## [**AI + Machine Learning**](https://azure.microsoft.com/en-gb/overview/ai-platform/)
 
@@ -151,8 +153,15 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Speech translation**](https://azure.microsoft.com/en-gb/services/cognitive-services/speech-translation/): Easily integrate real-time speech translation to your app.
 * [**Text to Speech**](https://azure.microsoft.com/en-gb/services/cognitive-services/text-to-speech/): A Speech service feature that converts text to lifelike speech.
 * [**Azure Metrics Advisor**](https://azure.microsoft.com/en-gb/services/metrics-advisor/): An AI service that monitors metrics and diagnoses issues.
-* [**Azure Percept <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/azure-percept/): Accelerate edge intelligence from silicon to service.
-* [**Azure OpenAI Service <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/cognitive-services/openai-service/): Apply advanced coding and language models to a variety of use cases.
+* [**Azure OpenAI Service**](https://azure.microsoft.com/en-gb/products/ai-services/openai-service/): Apply advanced coding and language models to a variety of use cases.
+* [**Azure AI Metrics Advisor**](https://azure.microsoft.com/en-gb/products/ai-services/ai-metrics-advisor/): An AI service that monitors metrics and diagnoses issues.
+* [**Azure AI Translator**](https://azure.microsoft.com/en-gb/products/ai-services/ai-translator/): Easily conduct machine translation with a simple REST API call.
+* [**Azure AI Personalizer**](https://azure.microsoft.com/en-gb/products/ai-services/ai-personalizer/): Deliver personalized, relevant experiences for each of your users.
+* [**Azure AI Content Safety**](https://azure.microsoft.com/en-gb/products/ai-services/ai-content-safety/): Automated image, text, and video moderation.
+* [**Azure AI Document Intelligence**](https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence/): A managed service purpose-built for development of virtual healthcare assistants.
+* [**Azure AI Studio**](https://azure.microsoft.com/en-gb/products/ai-studio): A platform for developing generative AI solutions and custom copilots.
+* [**Microsoft Copilot for Security**](https://www.microsoft.com/en-gb/security/business/ai-machine-learning/microsoft-security-copilot): Protect at the speed and scale of AI with a generative AI-powered assistant.
+
 
 ## [**Analytics**](https://azure.microsoft.com/en-gb/products/category/analytics/)
 
@@ -175,7 +184,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Event Hubs**](https://azure.microsoft.com/en-gb/services/event-hubs/): Receive telemetry from millions of devices.
 * [**Power BI Embedded**](https://azure.microsoft.com/en-gb/services/power-bi-embedded/): White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.
 * [**Microsoft Purview**](https://azure.microsoft.com/en-gb/services/purview/): Govern, protect, and manage your data estate.
-* [**Azure Chaos Studio <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/chaos-studio/): Improve application resilience by introducing faults and simulating outages.
+* [**Azure Chaos Studio**](https://azure.microsoft.com/en-gb/products/chaos-studio/): Improve application resilience by introducing faults and simulating outages.
 
 ## [**Containers**](https://azure.microsoft.com/en-gb/product-categories/containers/)
 
@@ -334,7 +343,7 @@ If you have any suggestions or missing products, create a pull request on this R
 * [**Microsoft Cost Management**](https://azure.microsoft.com/en-gb/services/cost-management/): Monitor, allocate and optimise cloud costs with transparency, accuracy and efficiency using Microsoft Cost Management.
 * [**Network Watcher**](https://azure.microsoft.com/en-gb/services/network-watcher/): Network performance monitoring and diagnostics solution.
 * [**Azure Automanage <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/azure-automanage/): Simplify and optimise IT management with automated operations.
-* [**Microsoft Purview**](https://azure.microsoft.com/en-gb/services/purview/): Govern, protect, and manage your data estate.
+* [**Microsoft Purview**](https://azure.microsoft.com/en-gb/products/purview/): Govern, protect, and manage your data estate.
 * [**Azure Managed Grafana <sup>PREVIEW</sup>**](https://azure.microsoft.com/en-gb/services/managed-grafana/): Deploy Grafana dashboards as a fully managed Azure service.
   
 ## **Media**
