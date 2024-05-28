@@ -1,6 +1,8 @@
 # The Microsoft Azure Developer's Cheat Sheet
 
-Every product, feature and service in the Azure family (updated May 2024.).
+Every product, feature and service in the Azure family.
+
+Fetched from: https://azure.microsoft.com/en-gb/products/ (Last update May 2024.).
 
 ## Give a Star! :star:
 
@@ -80,9 +82,9 @@ Other formats: [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark
 
 ![Azure Cloud Services Cheat Sheet](Azure-Cloud-services-cheat-sheet.png)
 
-Download the cheat sheet in the [PDF version](Monitoring%20cheating%20sheet.pdf) or [PNG version](monitoring-cheating-sheet.png).
+Download the cheat sheet in the [PDF version](Аzure Cloud Services - cheat sheet.pdf) or [PNG version](Azure-Cloud-services-cheat-sheet.png).
 
-Fetched from: https://azure.microsoft.com/en-gb/products/ 
+
 
 Text descriptions with links are below
 
