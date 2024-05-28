@@ -82,13 +82,9 @@ Other formats: [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark
 
 ![Azure Cloud Services Cheat Sheet](Azure-Cloud-services-cheat-sheet.png)
 
-Download the cheat sheet in the [PDF version](Аzure Cloud Services - cheat sheet.pdf) or [PNG version](Azure-Cloud-services-cheat-sheet.png).
+Download the cheat sheet in the [PDF version](Аzure-Cloud-Services-cheat-sheet.pdf) or [PNG version](Azure-Cloud-services-cheat-sheet.png).
 
-
-
-Text descriptions with links are below
-
-If you have any suggestions or missing products, create a pull request on this README.md file or [contact me](https://milan.milanovic.org).
+Text descriptions with links are below.
 
 ----------------------------
 
