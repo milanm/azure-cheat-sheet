@@ -54,7 +54,7 @@ Low-res PNG: [Page 1.](2_page_version/LightSheet/Low/Azure-document-light-1st-pa
 | 
 [Page 2.](2_page_version/LightSheet/Low/Azure-document-light-2nd-page-low-rez.png)
 
-[PDF](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.pdf)
+Other formats: [PDF](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.pdf)
 |
 [SVG](2_page_version/LightSheet/Azure_Developers_2_page_sheet_light.svg)
 
@@ -72,7 +72,7 @@ Low-res PNG: [Page 1.](2_page_version/DarkSheet/Low/Azure-document-dark-1st-page
 |
 [Page 2.](2_page_version/DarkSheet/Low/Azure-document-dark-2nd-page-low_rez.png)
 
-[PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.pdf)
+Other formats: [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.pdf)
 |
 [SVG](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.svg)
 
