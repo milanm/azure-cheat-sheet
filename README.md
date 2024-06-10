@@ -82,7 +82,13 @@ Other formats: [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark
 
 ![Azure Cloud Services Cheat Sheet](Azure-Cloud-services-cheat-sheet.png)
 
-Download the cheat sheet in the [PDF version](Аzure-Cloud-Services-cheat-sheet.pdf) or [PNG version](Azure-Cloud-services-cheat-sheet.png).
+Download the cheat sheet in the [PDF version](Аzure-Cloud-Services-cheat-sheet.pdf).
+
+## Bonus 2: Azure Load Balancer Cheat Sheet
+
+![Azure Cloud Load Balancer Cheat Sheet](Azure-load-balancer---cheat-sheet.png)
+
+Download the cheat sheet in the [PDF version](Azure-load-balancer-cheat-sheet.pdf).
 
 Text descriptions with links are below.
 
