@@ -4,6 +4,12 @@ Every product, feature and service in the Azure family.
 
 Fetched from: https://azure.microsoft.com/en-gb/products/ (Last update May 2024.).
 
+## Support My Work
+
+If you find this repository helpful, consider supporting me on Patreon:
+
+[![Patreon](patreon.png)](https://www.patreon.com/techworld_with_milan)
+
 ## Give a Star! :star:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
