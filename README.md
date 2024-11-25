@@ -2,7 +2,7 @@
 
 Every product, feature and service in the Azure family.
 
-Fetched from: https://azure.microsoft.com/en-gb/products/ (Last update May 2024.).
+Fetched from: https://azure.microsoft.com/en-gb/products/ (Last update November 2024).
 
 ## Support My Work
 
@@ -171,7 +171,27 @@ Text descriptions with links are below.
 * [**Azure AI Document Intelligence**](https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence/): A managed service purpose-built for development of virtual healthcare assistants.
 * [**Azure AI Studio**](https://azure.microsoft.com/en-gb/products/ai-studio): A platform for developing generative AI solutions and custom copilots.
 * [**Microsoft Copilot for Security**](https://www.microsoft.com/en-gb/security/business/ai-machine-learning/microsoft-security-copilot): Protect at the speed and scale of AI with a generative AI-powered assistant.
-
+* [**Azure AI Content Safety**](https://azure.microsoft.com/en-gb/products/ai-content-safety/): Use AI to monitor and filter harmful content in text and images.
+* [**Azure AI Studio**](https://azure.microsoft.com/en-gb/products/ai-studio/): Build, evaluate, and deploy generative AI solutions and custom agents.
+* [**Azure AI Model Catalog**](https://azure.microsoft.com/en-gb/products/ai-model-catalog/): Discover, deploy, and manage AI models with ease.
+* [**Microsoft Copilot in Azure (Preview)**](https://azure.microsoft.com/en-gb/products/microsoft-copilot-in-azure/): Integrate AI-powered assistance into your development workflows.
+* [**Azure AI Vision**](https://azure.microsoft.com/en-gb/products/ai-vision/): Analyze images and videos to extract actionable insights.
+* [**Azure AI Language**](https://azure.microsoft.com/en-gb/products/ai-language/): Add natural language understanding capabilities to applications.
+* [**Azure AI Speech**](https://azure.microsoft.com/en-gb/products/ai-speech/): Convert speech to text and vice versa for voice-enabled applications.
+* [**Azure AI Translator**](https://azure.microsoft.com/en-gb/products/ai-translator/): Integrate real-time translation services into apps and workflows.
+* [**Azure AI Personalizer**](https://azure.microsoft.com/en-gb/products/ai-personalizer/): Deliver personalized, relevant experiences for each user.
+* [**Azure AI Metrics Advisor**](https://azure.microsoft.com/en-gb/products/ai-metrics-advisor/): Monitor metrics and diagnose issues using AI-driven insights.
+* [**Azure AI Video Indexer**](https://azure.microsoft.com/en-gb/products/ai-video-indexer/): Extract meaningful insights from audio and video files.
+* [**Azure AI Custom Vision**](https://azure.microsoft.com/en-gb/products/ai-custom-vision/): Customize and train computer vision models for unique use cases.
+* [**Azure AI Document Intelligence**](https://azure.microsoft.com/en-gb/products/ai-document-intelligence/): Automate and simplify document processing with AI.
+* [**Azure AI Immersive Reader**](https://azure.microsoft.com/en-gb/products/ai-immersive-reader/): Empower users to read and comprehend text more effectively.
+* [**Azure AI Anomaly Detector**](https://azure.microsoft.com/en-gb/products/ai-anomaly-detector/): Easily integrate anomaly detection capabilities into applications.
+* [**Azure AI Bot Service**](https://azure.microsoft.com/en-gb/products/ai-bot-service/): Create intelligent bots and connect them across multiple channels.
+* [**Azure AI Search**](https://azure.microsoft.com/en-gb/products/ai-search/): Provide enterprise-scale search capabilities for app development.
+* [**Azure Databricks**](https://azure.microsoft.com/en-gb/products/databricks/): Accelerate data and AI workflows with Apache Spark™-based analytics.
+* [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/products/machine-learning/): Enable the end-to-end machine learning lifecycle with enterprise-grade tools.
+* [**Azure OpenAI Service**](https://azure.microsoft.com/en-gb/products/openai-service/): Access advanced coding and language models for diverse use cases.
+* [**Azure AI Services**](https://azure.microsoft.com/en-gb/products/ai-services/): Add cognitive capabilities to applications with APIs and services.
 
 ## [**Analytics**](https://azure.microsoft.com/en-gb/products/category/analytics/)
 
@@ -195,6 +215,7 @@ Text descriptions with links are below.
 * [**Power BI Embedded**](https://azure.microsoft.com/en-gb/services/power-bi-embedded/): White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.
 * [**Microsoft Purview**](https://azure.microsoft.com/en-gb/services/purview/): Govern, protect, and manage your data estate.
 * [**Azure Chaos Studio**](https://azure.microsoft.com/en-gb/products/chaos-studio/): Improve application resilience by introducing faults and simulating outages.
+* [**Azure Operator Insights**](https://azure.microsoft.com/en-gb/products/operator-insights/): Gain intelligent insights into network operations for enhanced performance.
 
 ## [**Containers**](https://azure.microsoft.com/en-gb/product-categories/containers/)
 
@@ -209,6 +230,7 @@ Text descriptions with links are below.
 * [**Azure Container Apps**](https://azure.microsoft.com/en-gb/services/container-apps/): Build and deploy modern apps and microservices using serverless containers.
 * [**Web App for Containers**](https://azure.microsoft.com/en-gb/services/app-service/containers/): Easily deploy and run containerised web apps on Windows and Linux.
 * [**Service Fabric**](https://azure.microsoft.com/en-gb/services/service-fabric/): Develop microservices and orchestrate containers on Windows or Linux.
+* [**Azure Kubernetes Fleet Manager (Preview)**](https://azure.microsoft.com/en-gb/products/kubernetes-fleet-manager/): Seamlessly manage multiple Kubernetes clusters across environments.
 
 ## [**Databases**](https://azure.microsoft.com/en-gb/product-categories/databases/)
 
@@ -278,6 +300,7 @@ Text descriptions with links are below.
 * [**Azure Stack**](https://azure.microsoft.com/en-gb/overview/azure-stack/): Build and run innovative hybrid apps across cloud boundaries.
 * [**Azure Stack HCI**](https://azure.microsoft.com/en-gb/products/azure-stack/hci/): Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure.
 * [**Azure Stack Edge**](https://azure.microsoft.com/en-gb/products/azure-stack/edge/): An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.
+* [**Azure Local**](https://azure.microsoft.com/en-gb/products/local/): Run applications and workloads locally with a consistent Azure experience.
 
 ## [**Identity**](https://azure.microsoft.com/en-gb/products/category/identity/)
 
