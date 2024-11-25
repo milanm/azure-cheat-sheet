@@ -184,7 +184,6 @@ Text descriptions with links are below.
 * [**Azure AI Search**](https://azure.microsoft.com/en-us/products/ai-services/ai-search): Implement powerful search capabilities within your applications.
 * [**Azure Databricks**](https://azure.microsoft.com/en-gb/products/databricks/): Collaborative platform for data engineering and machine learning.
 * [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/products/machine-learning/): Build, train, and deploy machine learning models at scale.
-* [**Azure OpenAI Service**](https://azure.microsoft.com/en-us/products/ai-services/openai-service): Access OpenAI's powerful language models through Azure.
 * [**Azure AI Services**](https://azure.microsoft.com/en-gb/products/ai-services/): Integrate a suite of AI services into your applications.
 
 ## [**Analytics**](https://azure.microsoft.com/en-gb/products/category/analytics/)
