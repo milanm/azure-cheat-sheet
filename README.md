@@ -170,23 +170,21 @@ Text descriptions with links are below.
 * [**Azure AI Content Safety**](https://azure.microsoft.com/en-gb/products/ai-content-safety/): Automate the detection and moderation of harmful content across platforms.
 * [**Azure AI Studio**](https://azure.microsoft.com/en-gb/products/ai-studio/): Develop, evaluate, and deploy generative AI solutions and custom agents.
 * [**Azure AI Model Catalog**](https://azure.microsoft.com/en-gb/products/ai-model-catalog/): Discover, deploy, and manage a wide range of AI models.
-* [**Microsoft Copilot in Azure (Preview)**](https://azure.microsoft.com/en-gb/products/microsoft-copilot-in-azure/): Integrate AI assistance into your development workflows.
-* [**Azure AI Vision**](https://azure.microsoft.com/en-gb/products/ai-vision/): Extract actionable insights from images and videos using advanced AI.
-* [**Azure AI Language**](https://azure.microsoft.com/en-gb/products/ai-language/): Enhance applications with natural language understanding capabilities.
-* [**Azure AI Speech**](https://azure.microsoft.com/en-gb/products/ai-speech/): Implement speech-to-text and text-to-speech functionalities in your apps.
-* [**Azure AI Translator**](https://azure.microsoft.com/en-gb/products/ai-translator/): Integrate real-time translation services into your applications.
-* [**Azure AI Personalizer**](https://azure.microsoft.com/en-gb/products/ai-personalizer/): Deliver personalized user experiences through reinforcement learning.
-* [**Azure AI Metrics Advisor**](https://azure.microsoft.com/en-gb/products/ai-metrics-advisor/): Monitor and detect anomalies in your metrics with AI.
-* [**Azure AI Video Indexer**](https://azure.microsoft.com/en-gb/products/ai-video-indexer/): Extract meaningful metadata from audio and video content.
-* [**Azure AI Custom Vision**](https://azure.microsoft.com/en-gb/products/ai-custom-vision/): Easily build and deploy custom image classification models.
-* [**Azure AI Document Intelligence**](https://azure.microsoft.com/en-gb/products/ai-document-intelligence/): Automate document processing and data extraction with AI.
-* [**Azure AI Immersive Reader**](https://azure.microsoft.com/en-gb/products/ai-immersive-reader/): Enhance reading and comprehension capabilities in your applications.
-* [**Azure AI Anomaly Detector**](https://azure.microsoft.com/en-gb/products/ai-anomaly-detector/): Integrate anomaly detection to identify unusual patterns in your data.
-* [**Azure AI Bot Service**](https://azure.microsoft.com/en-gb/products/ai-bot-service/): Develop intelligent bots that interact naturally with users.
-* [**Azure AI Search**](https://azure.microsoft.com/en-gb/products/ai-search/): Implement powerful search capabilities within your applications.
+* [**Microsoft Copilot in Azure (Preview)**](https://azure.microsoft.com/en-gb/products/copilot): Integrate AI assistance into your development workflows.
+* [**Azure AI Vision**](https://azure.microsoft.com/en-us/products/ai-services/ai-vision): Extract actionable insights from images and videos using advanced AI.
+* [**Azure AI Language**](https://azure.microsoft.com/en-us/products/ai-services/ai-language): Enhance applications with natural language understanding capabilities.
+* [**Azure AI Speech**](https://azure.microsoft.com/en-us/products/ai-services/ai-speech): Implement speech-to-text and text-to-speech functionalities in your apps.
+* [**Azure AI Metrics Advisor**](https://azure.microsoft.com/en-us/products/ai-services/ai-metrics-advisor): Monitor and detect anomalies in your metrics with AI.
+* [**Azure AI Video Indexer**](https://azure.microsoft.com/en-us/products/ai-video-indexer/): Extract meaningful metadata from audio and video content.
+* [**Azure AI Custom Vision**](https://azure.microsoft.com/en-gb/products/ai-services/ai-custom-vision/): Easily build and deploy custom image classification models.
+* [**Azure AI Document Intelligence**](https://azure.microsoft.com/en-gb/products/ai-services/ai-document-intelligence/): Automate document processing and data extraction with AI.
+* [**Azure AI Immersive Reader**](https://azure.microsoft.com/en-gb/products/ai-services/ai-immersive-reader/): Enhance reading and comprehension capabilities in your applications.
+* [**Azure AI Anomaly Detector**](https://azure.microsoft.com/en-us/products/ai-services/ai-anomaly-detector): Integrate anomaly detection to identify unusual patterns in your data.
+* [**Azure AI Bot Service**](https://azure.microsoft.com/en-us/products/ai-services/ai-bot-service): Develop intelligent bots that interact naturally with users.
+* [**Azure AI Search**](https://azure.microsoft.com/en-us/products/ai-services/ai-search): Implement powerful search capabilities within your applications.
 * [**Azure Databricks**](https://azure.microsoft.com/en-gb/products/databricks/): Collaborative platform for data engineering and machine learning.
 * [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/products/machine-learning/): Build, train, and deploy machine learning models at scale.
-* [**Azure OpenAI Service**](https://azure.microsoft.com/en-gb/products/openai-service/): Access OpenAI's powerful language models through Azure.
+* [**Azure OpenAI Service**](https://azure.microsoft.com/en-us/products/ai-services/openai-service): Access OpenAI's powerful language models through Azure.
 * [**Azure AI Services**](https://azure.microsoft.com/en-gb/products/ai-services/): Integrate a suite of AI services into your applications.
 
 ## [**Analytics**](https://azure.microsoft.com/en-gb/products/category/analytics/)
