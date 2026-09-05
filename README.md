@@ -122,7 +122,7 @@ Text descriptions with links are below.
 * [**Linux Virtual Machines**](https://azure.microsoft.com/en-gb/services/virtual-machines/linux-and-open/): Provision virtual machines for Ubuntu, Red Hat, and more.
 * [**Static Web Apps**](https://azure.microsoft.com/en-gb/services/app-service/static/): A modern web app service that offers streamlined full-stack development from source code to global high availability.
 * [**Virtual Machines**](https://azure.microsoft.com/en-gb/services/virtual-machines/): Provision Windows and Linux virtual machines in seconds.
-* [**Azure Confidential VMs**](https://azure.microsoft.com/en-gb/products/virtual-machines/confidential/): Hardware-based isolation with confidential computing for sensitive workloads.
+* [**Azure Confidential VMs**](https://azure.microsoft.com/en-gb/solutions/confidential-compute/): Hardware-based isolation with confidential computing for sensitive workloads.
 * [**Azure Dedicated Host**](https://azure.microsoft.com/en-gb/services/virtual-machines/dedicated-host/): A dedicated physical server to host your Azure VMs for Windows and Linux.
 * [**Azure Kubernetes Service (AKS)**](https://azure.microsoft.com/en-gb/services/kubernetes-service/): Build and scale with managed Kubernetes.
 * [**Container Instances**](https://azure.microsoft.com/en-gb/services/container-instances/): Easily run containers on Azure without managing servers.
@@ -182,7 +182,7 @@ Text descriptions with links are below.
 * [**Azure Data Factory**](https://azure.microsoft.com/en-gb/services/data-factory/): Hybrid data integration at enterprise scale, made easy.
 * [**Azure Databricks**](https://azure.microsoft.com/en-gb/services/databricks/): Design AI with Apache Spark™-based analytics.
 * [**Azure Synapse Analytics**](https://azure.microsoft.com/en-gb/services/synapse-analytics/): Limitless analytics service with unmatched time to insight.
-* [**Microsoft Fabric**](https://azure.microsoft.com/en-gb/products/fabric/): Unified analytics platform for data engineering, data science, real-time analytics, and business intelligence.
+* [**Microsoft Fabric**](https://www.microsoft.com/en-gb/microsoft-fabric): Unified analytics platform for data engineering, data science, real-time analytics, and business intelligence.
 * [**HDInsight**](https://azure.microsoft.com/en-gb/services/hdinsight/): Provision cloud Hadoop, Spark, and other open-source clusters.
 * [**Microsoft Graph Data Connect**](https://azure.microsoft.com/en-gb/services/graph-data-connect/): A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant.
 * [**Azure Data Explorer**](https://azure.microsoft.com/en-gb/services/data-explorer/): Fast and highly scalable data exploration service.
@@ -249,7 +249,7 @@ Text descriptions with links are below.
 * [**Microsoft Dev Box**](https://azure.microsoft.com/en-gb/products/dev-box/): Cloud-powered developer workstations preconfigured and ready to code.
 * [**Azure Deployment Environments**](https://azure.microsoft.com/en-gb/products/deployment-environments/): Quickly spin up app infrastructure environments with project-based templates.
 * [**GitHub Advanced Security for Azure DevOps**](https://azure.microsoft.com/en-gb/products/devops/github-advanced-security/): Code scanning, secret scanning, and dependency scanning for Azure DevOps repos.
-* [**Azure API Center**](https://azure.microsoft.com/en-gb/products/api-center/): Centralized catalog for discovering, governing, and consuming APIs across your organisation.
+* [**Azure API Center**](https://learn.microsoft.com/en-us/azure/api-center/overview): Centralized catalog for discovering, governing, and consuming APIs across your organisation.
 * [**Microsoft Playwright Testing**](https://azure.microsoft.com/en-gb/products/playwright-testing): Run Playwright end-to-end browser tests at cloud scale across browsers and operating systems.
 * [**Azure Artifact Signing**](https://azure.microsoft.com/en-gb/products/artifact-signing): Fully managed code and artifact signing service, formerly Trusted Signing.
 
@@ -275,7 +275,7 @@ Text descriptions with links are below.
 
 ### Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads
 
-* [**Microsoft Entra ID**](https://azure.microsoft.com/en-gb/products/entra-id/): Synchronise on-premises directories and enable single sign-on.
+* [**Microsoft Entra ID**](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id): Synchronise on-premises directories and enable single sign-on.
 * [**Azure Database for PostgreSQL**](https://azure.microsoft.com/en-gb/services/postgresql/): Fully managed, intelligent, and scalable PostgreSQL.
 * [**Azure ExpressRoute**](https://azure.microsoft.com/en-gb/services/expressroute/): Dedicated private-network fibre connections to Azure.
 * [**Microsoft Sentinel**](https://azure.microsoft.com/en-gb/services/microsoft-sentinel/): Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise.
@@ -298,10 +298,10 @@ Text descriptions with links are below.
 
 ### Manage user identities and access to protect against advanced threats across devices, data, apps and infrastructure
 
-* [**Microsoft Entra ID**](https://azure.microsoft.com/en-gb/products/entra-id/): Synchronise on-premises directories and enable single sign-on.
+* [**Microsoft Entra ID**](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id): Synchronise on-premises directories and enable single sign-on.
 * [**Azure Information Protection**](https://azure.microsoft.com/en-gb/services/information-protection/): Better protect your sensitive information—anytime, anywhere.
-* [**Microsoft Entra Domain Services**](https://azure.microsoft.com/en-gb/products/entra-domain-services/): Join Azure virtual machines to a domain without domain controllers.
-* [**Microsoft Entra External ID**](https://azure.microsoft.com/en-gb/products/entra-external-id/): Consumer identity and access management in the cloud.
+* [**Microsoft Entra Domain Services**](https://azure.microsoft.com/en-gb/products/microsoft-entra-ds): Join Azure virtual machines to a domain without domain controllers.
+* [**Microsoft Entra External ID**](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-external-id): Consumer identity and access management in the cloud.
 * [**Microsoft Entra Verified ID**](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-verified-id): Issue and verify privacy-respecting decentralised digital credentials.
 
 ## [**Integration**](https://azure.microsoft.com/en-gb/products/category/integration/)
@@ -326,7 +326,7 @@ Text descriptions with links are below.
 * [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/services/machine-learning/): Use an enterprise-grade service for the end-to-end machine learning lifecycle.
 * [**Azure SQL Edge**](https://azure.microsoft.com/en-gb/products/azure-sql/edge/): Small-footprint, edge-optimised SQL database engine with built-in AI.
 * [**Notification Hubs**](https://azure.microsoft.com/en-gb/services/notification-hubs/): Send push notifications to any platform from any back-end.
-* [**Microsoft Defender for IoT**](https://azure.microsoft.com/en-gb/products/defender-for-iot/): Unified threat protection for all your IoT/OT devices.
+* [**Microsoft Defender for IoT**](https://www.microsoft.com/en-gb/security/business/endpoint-security/microsoft-defender-iot): Unified threat protection for all your IoT/OT devices.
 * [**Windows for IoT**](https://azure.microsoft.com/en-gb/services/windows-iot/): Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security.
 * [**Azure Cosmos DB**](https://azure.microsoft.com/en-gb/services/cosmos-db/): Fast NoSQL database with open APIs for any scale.
 * [**Azure IoT Central**](https://azure.microsoft.com/en-gb/services/iot-central/): Go from proof of concept to proof of value.
@@ -365,7 +365,7 @@ Text descriptions with links are below.
 * [**Azure Network Watcher**](https://azure.microsoft.com/en-gb/services/network-watcher/): Network performance monitoring and diagnostics solution.
 * [**Microsoft Purview**](https://azure.microsoft.com/en-gb/products/purview/): Govern, protect, and manage your data estate.
 * [**Azure Managed Grafana**](https://azure.microsoft.com/en-gb/services/managed-grafana/): Deploy Grafana dashboards as a fully managed Azure service.
-* [**Azure Business Continuity Center**](https://azure.microsoft.com/en-gb/products/business-continuity-center/): Unified management for backup and disaster recovery across Azure workloads.
+* [**Azure Business Continuity Center**](https://learn.microsoft.com/en-us/azure/business-continuity-center/business-continuity-center-overview): Unified management for backup and disaster recovery across Azure workloads.
 * [**Azure SRE Agent**](https://azure.microsoft.com/en-gb/products/sre-agent/): AI-powered operations agent that helps improve uptime, reduce incident impact, and automate response workflows.
 * [**Azure Managed Applications**](https://azure.microsoft.com/en-gb/products/managed-applications/): Package and deliver turnkey cloud solutions that customers deploy and you operate.
 * [**Azure Automanage**](https://azure.microsoft.com/en-gb/products/azure-automanage/): Automate virtual machine configuration and apply Azure best-practice services.
@@ -434,7 +434,7 @@ Text descriptions with links are below.
 ### Protect your enterprise from advanced threats across hybrid cloud workloads
 
 * [**App Configuration**](https://azure.microsoft.com/en-gb/services/app-configuration/): Fast, scalable parameter storage for app configuration.
-* [**Microsoft Entra ID**](https://azure.microsoft.com/en-gb/products/entra-id/): Synchronise on-premises directories and enable single sign-on.
+* [**Microsoft Entra ID**](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id): Synchronise on-premises directories and enable single sign-on.
 * [**Microsoft Defender for Cloud**](https://azure.microsoft.com/en-gb/services/defender-for-cloud/): Protect your multi-cloud and hybrid environments.
 * [**Azure DDoS Protection**](https://azure.microsoft.com/en-gb/services/ddos-protection/): Protect your Azure resources from distributed denial-of-service (DDoS) attacks.
 * [**Azure Firewall**](https://azure.microsoft.com/en-gb/services/azure-firewall/): Cloud-native and intelligent network firewall security.
@@ -443,14 +443,14 @@ Text descriptions with links are below.
 * [**Azure Web Application Firewall**](https://azure.microsoft.com/en-gb/services/web-application-firewall/): A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.
 * [**Microsoft Azure Attestation**](https://azure.microsoft.com/en-gb/services/azure-attestation/): A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it.
 * [**Azure Application Gateway**](https://azure.microsoft.com/en-gb/services/application-gateway/): Build secure, scalable, highly available web front ends in Azure.
-* [**Microsoft Entra Domain Services**](https://azure.microsoft.com/en-gb/products/entra-domain-services/): Join Azure virtual machines to a domain without domain controllers.
+* [**Microsoft Entra Domain Services**](https://azure.microsoft.com/en-gb/products/microsoft-entra-ds): Join Azure virtual machines to a domain without domain controllers.
 * [**Azure Bastion**](https://azure.microsoft.com/en-gb/services/azure-bastion/): Fully managed service that helps secure remote access to your virtual machines.
 * [**Azure Cloud HSM**](https://azure.microsoft.com/en-gb/products/azure-dedicated-hsm/): Manage hardware security modules that you use in the cloud.
 * [**Azure Firewall Manager**](https://azure.microsoft.com/en-gb/services/firewall-manager/): Central network security policy and route management for globally distributed, software-defined perimeters.
 * [**Azure Information Protection**](https://azure.microsoft.com/en-gb/services/information-protection/): Better protect your sensitive information—anytime, anywhere.
 * [**Azure Key Vault**](https://azure.microsoft.com/en-gb/services/key-vault/): Safeguard and maintain control of keys and other secrets.
 * [**Azure VPN Gateway**](https://azure.microsoft.com/en-gb/services/vpn-gateway/): Establish secure, cross-premises connectivity.
-* [**Microsoft Defender for IoT**](https://azure.microsoft.com/en-gb/products/defender-for-iot/): Unified threat protection for all your IoT/OT devices.
+* [**Microsoft Defender for IoT**](https://www.microsoft.com/en-gb/security/business/endpoint-security/microsoft-defender-iot): Unified threat protection for all your IoT/OT devices.
 * [**Azure Confidential Ledger**](https://azure.microsoft.com/en-gb/services/azure-confidential-ledger/): Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.
 * [**Microsoft Security Copilot**](https://www.microsoft.com/en-gb/security/business/ai-machine-learning/microsoft-security-copilot): AI assistant that helps security teams investigate and respond to threats at machine speed.
 * [**Defender External Attack Surface Management**](https://azure.microsoft.com/en-gb/products/defender-external-attack-surface-management/): Discover and continuously monitor your internet-facing attack surface.
