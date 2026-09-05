@@ -192,7 +192,6 @@ Text descriptions with links are below.
 * [**Power BI Embedded**](https://azure.microsoft.com/en-gb/products/power-bi-embedded/): White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.
 * [**Microsoft Purview**](https://www.microsoft.com/en-gb/security/business/risk-management/microsoft-purview-data-governance/): Govern, protect, and manage your data estate.
 * [**Azure Chaos Studio**](https://azure.microsoft.com/en-gb/products/chaos-studio/): Improve application resilience by introducing faults and simulating outages.
-* [**Azure Operator Insights**](https://azure.microsoft.com/en-gb/products/operator-insights/): Gain intelligent insights into network operations for enhanced performance.
 * [**Azure Data Share**](https://azure.microsoft.com/en-gb/products/data-share/): Simply and securely share big data with external organisations.
 * [**Microsoft Planetary Computer Pro**](https://azure.microsoft.com/en-gb/products/planetary-computer-pro): Manage, catalogue, and analyse geospatial data at scale.
 
@@ -398,7 +397,7 @@ Text descriptions with links are below.
 * [**Azure Application Gateway**](https://azure.microsoft.com/en-gb/products/application-gateway/): Build secure, scalable, highly available web front ends in Azure.
 * [**Azure DDoS Protection**](https://azure.microsoft.com/en-gb/products/ddos-protection/): Protect your Azure resources from distributed denial-of-service (DDoS) attacks.
 * [**Azure ExpressRoute**](https://azure.microsoft.com/en-gb/products/expressroute/): Dedicated private-network fibre connections to Azure.
-* [**Azure Load Balancer**](https://azure.microsoft.com/en-gb/products/azure-load-balancing/): Deliver high availability and network performance to your apps.
+* [**Azure Load Balancer**](https://azure.microsoft.com/en-gb/products/load-balancer/): Deliver high availability and network performance to your apps.
 * [**Azure Front Door**](https://azure.microsoft.com/en-gb/products/frontdoor/): Modern cloud CDN that delivers optimised experiences to your users anywhere.
 * [**Azure Private Link**](https://azure.microsoft.com/en-gb/products/private-link/): Private access to services hosted on the Azure platform, keeping your data on the Microsoft network.
 * [**Azure Network Watcher**](https://azure.microsoft.com/en-gb/products/network-watcher/): Network performance monitoring and diagnostics solution.
@@ -415,7 +414,6 @@ Text descriptions with links are below.
 * [**Azure Web Application Firewall**](https://azure.microsoft.com/en-gb/products/web-application-firewall/): A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.
 * [**Azure Route Server**](https://azure.microsoft.com/en-gb/products/route-server/): Enable network appliances to exchange routes dynamically with virtual networks in Azure.
 * [**Azure Virtual Network Manager**](https://azure.microsoft.com/en-gb/products/virtual-network-manager/): Centrally manage virtual networks in Azure from a single pane of glass.
-* [**Azure Programmable Connectivity**](https://azure.microsoft.com/en-gb/products/programmable-connectivity/): Access network APIs from multiple operators to build applications with enhanced connectivity features.
 * [**Azure NAT Gateway**](https://azure.microsoft.com/en-gb/products/azure-nat-gateway/): Simple, secure, and highly scalable outbound connectivity for virtual networks.
 * [**Azure Enclave**](https://azure.microsoft.com/en-gb/products/enclave): Create isolated, zero-trust software-defined networks with built-in governance for sensitive workloads.
 
