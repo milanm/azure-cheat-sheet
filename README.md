@@ -2,7 +2,8 @@
 
 Every product, feature and service in the Azure family.
 
-Fetched from: https://azure.microsoft.com/en-gb/products/ (Last update September 5, 2026).
+The text listing below is fetched from https://azure.microsoft.com/en-gb/products/ — **last updated September 5, 2026**.
+The downloadable posters are older — each is dated in its heading; see the note below.
 
 ## Support My Work
 
@@ -26,7 +27,15 @@ If you like or are using this project to learn or start your solution, please gi
 
 Here are the downloadable versions:
 
-## One page version
+> [!NOTE]
+> **The posters below were produced in August 2022 and have not been regenerated since.**
+> They predate several major renames — Azure Active Directory is now Microsoft Entra ID,
+> Cognitive Services is now Foundry Tools, Windows Virtual Desktop is now Azure Virtual
+> Desktop — and they still show services that have since retired.
+> For current information use the [interactive version](https://azurecheatsheet.com) or the
+> [text listing further down this page](#all-products).
+
+## One page version (August 2022)
 
 <a target="_blank" href="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"><img border="1" alt="Microsoft Azure Developer's Cheat Sheet Image" src="1_page_version/DarkSheet/Azure_developers_sheet_dark-mid_rez.png"></a>
 
@@ -48,7 +57,7 @@ Here are the downloadable versions:
 |
 [SVG](1_page_version/DarkSheet/Azure_Developers_sheet-dark.svg)
 
-## Two page version
+## Two page version (August 2022)
 
 <p align="center">
 <a target="_blank" href="2_page_version/DarkSheet/Low/Azure-document-dark-1st-page-low_rez.png">
@@ -94,13 +103,13 @@ Other formats: [PDF](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark
 |
 [SVG](2_page_version/DarkSheet/Azure_Developers_2_page_sheet_dark.svg)
 
-## Bonus: Azure Cloud Services Cheat Sheet
+## Bonus: Azure Cloud Services Cheat Sheet (May 2024)
 
 ![Azure Cloud Services Cheat Sheet](Azure-Cloud-services-cheat-sheet.png)
 
-Download the cheat sheet in the [PDF version](Аzure-Cloud-Services-cheat-sheet.pdf).
+Download the cheat sheet in the [PDF version](Azure-Cloud-Services-cheat-sheet.pdf).
 
-## Bonus 2: Azure Load Balancer Cheat Sheet
+## Bonus 2: Azure Load Balancer Cheat Sheet (June 2024)
 
 ![Azure Cloud Load Balancer Cheat Sheet](Azure-load-balancer---cheat-sheet.png)
 
@@ -135,8 +144,8 @@ Text descriptions with links are below.
 * [**Azure VM Image Builder**](https://azure.microsoft.com/en-gb/products/image-builder/): Simplify your image building process with easy to use tool.
 * [**Azure Functions**](https://azure.microsoft.com/en-gb/products/functions/): Execute event-driven serverless code functions with an end-to-end development experience.
 * [**Service Fabric**](https://learn.microsoft.com/en-gb/azure/service-fabric/service-fabric-overview): Develop microservices and orchestrate containers on Windows or Linux.
-* [**Azure Modeling and Simulation Workbench**](https://azure.microsoft.com/en-gb/products/modeling-and-simulation-workbench): A collaborative on-demand, secure workspace for research and engineering projects.
 * [**Azure Compute Fleet**](https://azure.microsoft.com/en-gb/products/compute-fleet/): Efficiently provision and manage compute resources at scale.
+* [**Azure Spring Apps**](https://azure.microsoft.com/en-gb/products/spring-apps): Managed platform for running Spring Boot applications (retires 31 March 2028 — migrate to Azure Container Apps or AKS).
 * [**Microsoft Dev Box**](https://azure.microsoft.com/en-gb/products/dev-box/): Cloud-powered developer workstations preconfigured and ready to code.
 * [**Azure Deployment Environments**](https://azure.microsoft.com/en-gb/products/deployment-environments/): Quickly spin up app infrastructure environments with project-based templates.
 * [**Azure Linux**](https://azure.microsoft.com/en-gb/products/azure-linux/): Microsoft's lightweight, hardened Linux distribution optimised for Azure and AKS workloads.
@@ -216,6 +225,7 @@ Text descriptions with links are below.
 ### Support rapid growth and innovate faster with secure, enterprise-grade and fully managed database services
 
 * [**Azure Managed Redis**](https://azure.microsoft.com/en-gb/products/managed-redis): Accelerate app performance with a fully managed, scalable, in-memory solution.
+* [**Azure Cache for Redis**](https://azure.microsoft.com/en-gb/products/cache): In-memory data cache for high-throughput, low-latency apps (retires 30 September 2028 — successor is Azure Managed Redis).
 * [**Azure Data Factory**](https://azure.microsoft.com/en-gb/products/data-factory/): Hybrid data integration at enterprise scale, made easy.
 * [**Azure Database for MySQL**](https://azure.microsoft.com/en-gb/products/mysql/): Fully managed, scalable MySQL database.
 * [**Azure Database Migration Service**](https://azure.microsoft.com/en-gb/products/database-migration/): Accelerate your data migration to Azure.
@@ -279,7 +289,6 @@ Text descriptions with links are below.
 * [**Microsoft Sentinel**](https://www.microsoft.com/en-gb/security/business/siem-and-xdr/microsoft-sentinel-siem): Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise.
 * [**Microsoft Defender for Cloud**](https://www.microsoft.com/en-gb/security/business/cloud-security/microsoft-defender-cloud/): Protect your multi-cloud and hybrid environments.
 * [**Azure Stack Hub**](https://azure.microsoft.com/en-gb/products/azure-stack/hub/): Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware.
-* [**Azure Modular Datacentre**](https://azure.microsoft.com/en-gb/products/azure-modular-datacenter/): A complete, rugged datacentre solution.
 * [**Azure Arc**](https://azure.microsoft.com/en-gb/products/azure-arc/): Secure, develop, and operate infrastructure, apps, and Azure services anywhere.
 * [**Azure DevOps**](https://azure.microsoft.com/en-gb/products/devops/): Services for teams to share code, track work and ship software.
 * [**Azure IoT Edge**](https://azure.microsoft.com/en-gb/products/iot-edge/): Extend cloud intelligence and analytics to edge devices.
