@@ -378,12 +378,6 @@ Text descriptions with links are below.
 * [**Azure Storage Mover**](https://azure.microsoft.com/en-gb/products/storage-mover/): Managed migration service for moving data into Azure Storage from on-premises or other clouds.
 * [**Microsoft Cost Management**](https://azure.microsoft.com/en-gb/products/cost-management/): Monitor, allocate and optimise cloud costs with transparency, accuracy and efficiency using Microsoft Cost Management.
 
-## [**Mixed Reality**](https://azure.microsoft.com/en-gb/solutions/mixed-reality) 
-
-### Blend your physical and digital worlds to create immersive, collaborative experiences
-
-* [**Azure Digital Twins**](https://azure.microsoft.com/en-gb/products/digital-twins/): Use IoT spatial intelligence to create models of physical environments.
-
 ## [**Mobile**](https://azure.microsoft.com/en-gb/products/category/mobile/)
 
 ### Build and deploy cross-platform and native apps for any mobile device
