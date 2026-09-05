@@ -525,4 +525,4 @@ If you think the roadmap can be improved, please do open a PR with any updates a
 
 ## Authors
 
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
+- [Dr. Milan Milanović](https://milan.milanovic.org)
